@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Akeel
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Web Programming and Java
-- 💞️ I’m looking to collaborate on Java Projects
+- 🌱 I’m currently learning Web Programming 
 - 📫 How to reach me akeellashley@gmail.com 
 
 <!---
