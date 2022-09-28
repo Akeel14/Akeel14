@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Akeel
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning Web Programming 
+- 👀 I’m interested in Swift/Xcode
+- 🌱 I’m currently learning IOS Development 
 - 📫 How to reach me akeellashley@gmail.com 
 
 <!---
